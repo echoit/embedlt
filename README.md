@@ -1,4 +1,4 @@
-embeddable apertium
+Embeddable Apertium
 ---
 
 coding challenge for [apertium-j](http://wiki.apertium.org/wiki/Ideas_for_Google_Summer_of_Code/Make_lttoolbox-java_embeddable)
