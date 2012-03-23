@@ -7,6 +7,7 @@ HOWTO
 ---
 
 - Make all of the files in src/org/apertium/embed/ integrated into the lttoolbox-java project
+- Modify Apertium's DATA\_DRECTORY to adapt your pair's path
 - Run class EmbeddableApertium with main method
 - You can change something in the eotest.input
 
