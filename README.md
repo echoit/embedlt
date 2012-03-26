@@ -13,7 +13,7 @@ How to test on Android
 
 ![Android Apertium](http://farm8.staticflickr.com/7080/7017242597_57a664d6a1.jpg "android apertium")
 
-HOWTO
+HOWTO on PC
 -----
 
 - Make all of the files in src/org/apertium/embed/ integrated into the lttoolbox-java project
